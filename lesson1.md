@@ -16,3 +16,5 @@
 >**git log** -get information about commits, выводит список всех комитов
 
 >**git chekout commit_hash_number** - transition between comits, позволяет перемещаться между комитами
+
+>**git diff** -show differences in our file, показывает изменения в нашем файле
