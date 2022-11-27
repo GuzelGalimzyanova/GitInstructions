@@ -11,4 +11,8 @@
 >**git commit -m "commit message"** - fix changes with files. фиксация изменений
 
 >- - m - message сообщение
->- - a - let us avoid repeating command add, освобо
+>- - a - let us avoid repeating command add, освобождает от add 
+
+>**git log** -get information about commits, выводит список всех комитов
+
+>**git chekout commit_hash_number** - transition between comits, позволяет перемещаться между комитами
