@@ -8,4 +8,7 @@
 
 >**git add file_Name** - track file, начинаем отслеживать файл
 
+>**git commit -m "commit message"** - fix changes with files. фиксация изменений
 
+>- - m - message сообщение
+>- - a - let us avoid repeating command add, освобо
