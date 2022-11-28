@@ -49,3 +49,5 @@
 > git branch -display out branches
 
 > git branch name -create new branch
+
+>git merge-combine two branches
