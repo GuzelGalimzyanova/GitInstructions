@@ -52,4 +52,4 @@
 
 >git merge-combine two branches
 
->git checkout -b name - creating and transitio to new branch
+example text
