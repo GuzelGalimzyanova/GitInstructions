@@ -45,3 +45,7 @@
 Для создания ссылки нужно написать текст в квадратных скобках и следом поставить ссылку в обычных скобках.
 
 [Нажмите сюда](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
+> git branch -display out branches
+
+> git branch name -create new branch
