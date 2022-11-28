@@ -52,4 +52,6 @@
 
 >git merge-combine two branches
 
-example text
+>git checkout -b name - creating and transitio to new branch
+qwertyy
+asdgf
