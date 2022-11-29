@@ -46,6 +46,7 @@
 
 [Нажмите сюда](https://gist.github.com/Jekins/2bf2d0638163f1294637)
 
+# Новые команды из второго урока. Работа с ветками
 > git branch -display out branches
 
 > git branch name -create new branch
@@ -53,5 +54,3 @@
 >git merge-combine two branches
 
 >git checkout -b name - creating and transitio to new branch
-qwertyy
-asdgf
