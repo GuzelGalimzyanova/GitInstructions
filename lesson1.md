@@ -55,6 +55,12 @@
 
 >git checkout -b name - creating and transitio to new branch
 
+>git branch -d name - delete merged branch 
+
+>git branch -D name - delete branch
+
+>git log --graph - list of commits 
+
 Для создания таблицы нужно испльзовать тире (-) и вертикальные линии (|). Двоеточия на второй сторке обозначаю, по какой стороне ровнять ткест в таблице. Например,
 
 |Заголовок 1| Заголовок 2|Заголовок 3|
