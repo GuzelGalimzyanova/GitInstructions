@@ -54,3 +54,5 @@
 >git merge-combine two branches
 
 >git checkout -b name - creating and transitio to new branch
+
+Создавать таблицы можно по разному
